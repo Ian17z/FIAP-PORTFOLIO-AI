@@ -15,11 +15,7 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 1</a>
-- <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 2</a>
-- <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 3</a> 
-- <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 4</a> 
-- <a href="Link do perfil no LinkedIn ou GitHub">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/ian-perez-3b2898341/">Ian Lima Perez</a>
 
 ## 👩‍🏫 Professores:
 
